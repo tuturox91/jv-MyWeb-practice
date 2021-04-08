@@ -6,7 +6,7 @@
 - Create a new controller: Implement creating a car (with no drivers by default)
 - Create a new controller: Implement adding driver to car.
 
-HINT: in last controller, create just two fields on JSP where you will pass corresponding id values.
+HINT: while implementing the last requirement, create just two fields on JSP where you will pass corresponding id values.
 
 ### Example how to implement adding driver to car:
 ```java
