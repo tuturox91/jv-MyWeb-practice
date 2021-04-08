@@ -1,7 +1,5 @@
 # Web practice. Implement JSP pages and their corresponding controllers
 
-- Configure web.xml
-- Add new dependencies `servlet-api` and `maven-war-plugin` in `pom.xml` (remember about `<packaging>war</packaging>`)
 - Create a new controller: Implement creating a driver
 - Create a new controller: Display all drivers
 - Create a new controller: Implement creating a manufacturer
