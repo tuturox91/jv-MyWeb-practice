@@ -1,5 +1,7 @@
 # Web practice. Implement JSP pages and their corresponding controllers
 
+
+- To get the actual parameters of the database tables, run script from the resources/init_db.sql file in the Workbench. 
 - Create a new controller: Implement creating a driver
 - Create a new controller: Display all drivers
 - Create a new controller: Implement creating a manufacturer
