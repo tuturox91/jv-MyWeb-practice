@@ -30,7 +30,7 @@ public class AddDriverToCarController extends HttpServlet {
 ```
 
 ### Typical mistakes:
-- Do not forget to implement additional maven library for jstl
+- Do not forget to import additional maven library for jstl
 - Do not forget to declare `taglib` prefix where applicable
 
 ### Advanced:
