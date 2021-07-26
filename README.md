@@ -9,6 +9,7 @@
 - Create a new controller: Implement adding driver to car.
 
 HINT: while implementing the last requirement, create just two fields on JSP where you will pass corresponding id values.
+You can redirect to `/index` page or any other page after your business login in `doPost()` method is applied.
 
 ### Example how to implement adding driver to car:
 ```java
@@ -38,4 +39,4 @@ public class AddDriverToCarController extends HttpServlet {
 - Display all drivers with ability to delete a certain driver
 - Create a new controller: Display all cars (with manufacturer and drivers) with ability to delete a certain car
 
-__Before submitting solution make sure you checked it first with__ [checklist](https://mate-academy.github.io/jv-program-fulltime/03_web/checklist/02_servlets_practice_checklist.html)
+__Before submitting solution make sure you checked it first with__ [checklist](https://mate-academy.github.io/jv-program-common-mistakes/java-web/web-practice/java-web-practice)
