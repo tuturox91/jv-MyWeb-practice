@@ -39,4 +39,4 @@ public class AddDriverToCarController extends HttpServlet {
 - Display all drivers with ability to delete a certain driver
 - Create a new controller: Display all cars (with manufacturer and drivers) with ability to delete a certain car
 
-__Before submitting solution make sure you checked it first with__ [checklist](https://mate-academy.github.io/jv-program-fulltime/03_web/checklist/02_servlets_practice_checklist.html)
+__Before submitting solution make sure you checked it first with__ [checklist](https://mate-academy.github.io/jv-program-common-mistakes/java-web/web-practice/java-web-practice)
