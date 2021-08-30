@@ -1,5 +1,7 @@
 # Web practice. Implement JSP pages and their corresponding controllers
 
+!Note: let's install Tomcat 9.0.50. If you decide to install version 10 and above, 
+you should use [a different dependency for servlets](https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api/5.0.0) and [JSTL](https://mvnrepository.com/artifact/jakarta.servlet.jsp.jstl/jakarta.servlet.jsp.jstl-api/2.0.0) as well.
 
 - To get the actual parameters of the database tables, run script from the resources/init_db.sql file in the Workbench. 
 - Create a new controller: Implement creating a driver
